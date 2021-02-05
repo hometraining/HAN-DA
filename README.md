@@ -3,8 +3,8 @@
 
 ## Motion-Estimate
 
-```mediapipe```라이브러리 사용한 모션 인식
-
+- ```mediapipe```라이브러리 사용한 모션 인식
+- 세밀한 자세 교정은 수학적인 요소와 머신러닝 사용
 
 ### requirements
 ```python
