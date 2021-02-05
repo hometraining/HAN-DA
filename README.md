@@ -22,13 +22,13 @@ python main.py
 - 앉은 자세 판별
 - 앉은 상태에서 정자세 및 잘못된 자세 판별
 
-#### HAN-DA_python
+#### 📑 HAN-DA_python
 - 앉은 자세 시간 계산
   - Timer 추가 (앉은 시간 판별 후 📢 ALERT)
 - 거북목 진단
 - 정면 자세 판단
 
-#### HAN-DA_json
+#### 📑 HAN-DA_json
 정자세, 굽은 자세, 턱 괸 자세 판단
 
 **바른 자세를 유지해주세요**
@@ -42,7 +42,7 @@ python main.py
 - **[운동 횟수] COUNT**
 - **[운동 자세 인식]**
 
-#### HAN-DA_Python
+#### 📑 HAN-DA_Python
 - ```SQUAT```: 무릎 각도와 엉덩이 각도를 내적을 통하여 연산
   - 운동 횟수 세기 ✔ 
   - 잘못된 자세 알림 ✔ 
@@ -53,7 +53,7 @@ python main.py
   - 운동 횟수세기 ✔ 
   - 잘못된 자세 알림 ✔
   
-#### HAN-DA_json
+#### 📑 HAN-DA_json
 
 ![image](https://user-images.githubusercontent.com/72767245/107079798-b0935b00-6833-11eb-895b-c57b1d305780.png)
 
