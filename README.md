@@ -3,12 +3,14 @@
 
 ## Motion-Estimate
 
-### 기술적인 부분
+### [python] 기술적인 부분
 - ```mediapipe```라이브러리 사용한 모션 인식
 - **세밀한 자세 교정**은 **수학적인 요소** 사용
 
 <웹 내 classifier>
 - 기술적인 노!가!다!
+
+### [json] 기술적인 부분
 
 
 ### requirements
