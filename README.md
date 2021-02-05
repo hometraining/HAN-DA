@@ -13,14 +13,18 @@
 ### 💻[json] 기술적인 부분
 
 ### requirements
-```python
+```
 pip install python==3.7.4
 pip install mediapipe==0.8.2
 pip install opencv-python==4.5.0
 ```
 ### 실행하기
 ```
+## HAN_DA-python 코드 실행하기
 python main.py
+
+## HAN_DA-json 코드
+
 ```
 
 ## 🧘작업하기🧘
