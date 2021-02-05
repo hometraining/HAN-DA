@@ -26,7 +26,7 @@ python main.py
 ## HAN_DA-json 코드
 
 ```
-
+# SERVICE
 ## 🧘작업하기🧘
 ### 동일 기능
 - 앉은 자세 판별
