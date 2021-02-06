@@ -14,6 +14,7 @@
 [한우정](https://github.com/dnwjddl)|AI 개발|
 
 <br>
+
 ---
 
 ## 발표 영상
