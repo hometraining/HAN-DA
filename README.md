@@ -3,6 +3,24 @@
 
 ### ```홈 라이프```를 위한, ```홈 트레이닝```을 위한 웹 개발
 
+---
+## 팀원 
+이름|역할|비고 
+:---:|:---:|:---:
+[정경창](https://github.com/gyungchang)|팀 총괄/프로트엔드|팀장
+[김대정](https://github.com/v4chelsea)|AI 개발|
+[조도운](https://github.com/jodowoon)|백엔드|
+[조수아](https://github.com/8uah)|디자인|
+[한우정](https://github.com/dnwjddl)|AI 개발|
+
+<br>
+---
+## 발표 영상
+[![2021 SW 중심대학 공동해커톤_한다_발표영상](https://youtu.be/fa3EWUc5RV4)
+
+## 웹 사이트
+[한다 웹사이트!!](https://601dedf7016eb7954200b0a6--inspiring-swartz-0e49ca.netlify.app/)
+---
 # TECHNOLOGY
 ### 💻[python] 기술적인 부분
 - ```mediapipe```라이브러리 사용한 모션 인식
@@ -27,6 +45,7 @@ python main.py
 ## HAN_DA-json 코드
 
 ```
+---
 # SERVICE
 ## 🧘작업하기🧘
 ### 동일 기능
