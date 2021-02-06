@@ -17,8 +17,8 @@
 ---
 ## 발표 영상
 
-[![2021 SW 중심대학 공동해커톤_한다_발표영상](![image](https://user-images.githubusercontent.com/72767245/107108470-70f06180-687b-11eb-9b84-e30fc971433a.png)
-)](https://youtu.be/fa3EWUc5RV4)
+[![2021 SW 중심대학 공동해커톤_한다_발표영상](![image](https://www.youtube.com/watch?v=fa3EWUc5RV4&feature=youtu.be/0.jpg)
+)](https://www.youtube.com/watch?v=fa3EWUc5RV4&feature=youtu.be)
 
 ## 웹 사이트
 
